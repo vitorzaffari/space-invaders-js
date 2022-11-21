@@ -1,0 +1,77 @@
+/*-----PRESET--------*/
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+body {
+    background-color:aliceblue;
+    width: 100%;
+    min-height: 100vh;
+}
+
+
+h1 {
+    font-size: 3rem;
+}
+
+h2 {
+    font-size: 2rem;
+}
+
+h3 {
+    font-size: 1.25rem;
+}
+
+h4 {
+    font-size: 0.875rem;
+}
+
+ul {
+    list-style-type: none;
+}
+
+a {
+    text-decoration: none;
+}
+
+/*-----PROJETO--------*/
+
+.grid{
+    margin: 0 auto;
+    display: flex;
+    flex-wrap: wrap;
+    width: 302px;
+    height: 302px;
+    border: 1px solid red;
+}
+h3{
+    text-align: center;
+    margin: 20px;
+}
+
+.grid div{
+    width: 20px;
+    height: 20px;
+    border: 0.1px solid rgba(0, 132, 255, 0.068);
+}
+
+.shooter{
+    background-color: darkblue;
+}
+
+.invader{
+    background-color: blueviolet;
+    border-radius: 10px;
+}
+
+.boom{
+    background-color: red;
+}
+
+.laser{
+    background-color: orange;
+}
