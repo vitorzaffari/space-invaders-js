@@ -4,9 +4,9 @@
 
 ![Result](teste.gif)
 	<sub> 
-##### Project made following Ania Kubow's JS game guide.
-##### This was made solely for the purpose of practicing JavaScript.
-###### _Projeto feito seguindo o guia de jogos feitos com JavsScript de Ania Kubow._
+Project made following Ania Kubow's JS game guide.
+This was made solely for the purpose of practicing JavaScript.
+_Projeto feito seguindo o guia de jogos feitos com JavsScript de Ania Kubow._
 
-###### _Feito somente para praticar JavaScript._
+ _Feito somente para praticar JavaScript._
  </sub>
